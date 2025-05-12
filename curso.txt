@@ -1,0 +1,29 @@
+https://youtu.be/-xDZwb-PY0M
+
+Requisitos: 
+
+Debes saber:
+> Usar un editor de texto
+
+.- Apartir de abajo ya es conocimiento de JavaScript
+
+> Variables 
+> Constantes
+> Funciones 
+> Fat arrow functions
+> Objetos
+> Destructuring
+
+
+Secciones Opcionales: 
+
+typeScript con Node JS
+typeScript con React JS
+
+
+
+
+
+
+
+
